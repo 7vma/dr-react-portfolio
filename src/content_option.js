@@ -1,38 +1,38 @@
 const logotext = "D-ROBLES";
 const meta = {
     title: "David Robles",
-    description: "I’m David Robles Software Engineer_ Full stack devloper,currently working in Berlin",
+    description: "I’m David Robles Software Engineer_ Full stack devloper,currently working in SF Bay Area.",
 };
 
 const introdata = {
     title: "I'm David Robles",
     animated: {
-        first: "I ❤️ Coding",
-        second: "Front-end Developer",
-        third: "I ❤️ Music",
+        first: "Front-end Developer",
+        second: "React Developer",
+        third: "Sound Engineer",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am a Front-end developer who is currently working in the San Francisco Bay Area.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "a bit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I'm a Software Engineer with a passion for front-end development. I previously worked as a Registered Nurse and a self taught Sound Engineer and through the years ive found that I really enjoy the creative aspect of coding. ",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+    //     jobtitle: "Designer of week",
+    //     where: "YAdfi",
+    //     date: "2020",
+    // },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "Jamalya",
+    //     date: "2019",
+    // },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "ALquds",
+    //     date: "2019",
     },
 ];
 
