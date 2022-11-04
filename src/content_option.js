@@ -38,19 +38,19 @@ const worktimeline = [{
 
 const skills = [{
         name: "Python",
-        value: 90,
+        value: 75,
     },
     {
         name: "Djano",
-        value: 85,
+        value: 70,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 90,
     },
     {
         name: "React",
-        value: 60,
+        value: 85,
     },
     {
         name: "Jquery",
@@ -74,17 +74,17 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Thrifts",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "AnimeDB",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Postal",
         link: "#",
     },
     {
