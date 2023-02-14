@@ -42,7 +42,7 @@ const skills = [{
     },
     {
         name: "Djano",
-        value: 70,
+        value: 75,
     },
     {
         name: "Javascript",
@@ -53,7 +53,7 @@ const skills = [{
         value: 85,
     },
     {
-        name: "Jquery",
+        name: "MongoDB",
         value: 85,
     },
 ];
